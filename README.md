@@ -1,12 +1,12 @@
 # Hash Table
 
-(`main.c`, `test.c`, and `benchmark.c` are taken from the class assignment
-that the hash table was for.)
+(Note: `main.c`, `test.c`, and `benchmark.c` are taken from the class 
+assignment that the hash table was for.)
 
 This repository contains a simple hash table implementation.
 
-The interface is defined in `hash_table.h`. See `hash_table.c`
-for the expected behavior and descriptions of the parameters.
+The interface is defined in `hash_table.h`. See `hash_table.c` for the
+expected behavior and descriptions of the parameters.
 
 `main.c` is meant for playing around with the implementation. Compile and
 run the code in `main.c` by running `make main; ./main` in the command line.
